@@ -20,3 +20,6 @@ credentials was in my files
 - Installed Docker on my local machine and got the same containers running on my laptop.
 
 - Launched an EC2 instance that has docker installed and pulled the container I created
+
+![image](https://user-images.githubusercontent.com/87014766/223755027-f79153ee-ba30-4819-a15b-9f2a3c16ef07.png)
+
